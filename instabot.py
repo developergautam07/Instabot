@@ -5,7 +5,7 @@ bot = InstaPy(username="your username", password="your password")
 bot.login()
 
 # Sending Likes To Posts
-hastags = ["python", "python3"]
+hastags = ["python", "python3"] #You Could Change/Add Hashtags According To Your Niche/Category 
 bot.like_by_tags(hastags, amount=4)
 
 # Following The Posts That Bot Likes
