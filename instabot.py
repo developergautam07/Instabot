@@ -1,3 +1,7 @@
+'''
+@author - Developer Gautam Sharma
+'''
+
 from instapy import InstaPy
 
 # Bot Login
