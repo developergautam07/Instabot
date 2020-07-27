@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Watch the full tutorial on our youtube channel to know the complete setup. 
+Watch the full [tutorial](https://youtu.be/aaDBsGIPG4M) on our youtube channel to know the complete setup. 
 YT Channel: [Developer Gautam](https://www.youtube.com/channel/UCHc8grk1qQ_LjEODq0clKqA)
 
 ## Contributing
