@@ -17,7 +17,7 @@ pip install -r requirements.txt
 And Then Add geckodriver_path:
 
 ```python
-bot = InstaPy(username="Your username", password="Your Password", geckodriver_path="path/geckodriver.exe")
+bot = InstaPy(username="Your username", password="Your Password", geckodriver_path=r"path/geckodriver.exe")
 ```
 
 ## Usage
